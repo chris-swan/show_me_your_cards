@@ -218,7 +218,7 @@ $databases = array (
     'default' => 
     array (
       'database' => 'magic',
-      'username' => 'root',
+      'username' => 'magic',
       'password' => 'root',
       'host' => '127.0.0.1',
       'port' => '8889',
@@ -258,7 +258,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = 'zbLqb_mmj0icGq5KsQyYod31Sl3sNvrzAg5P6GMC-EU';
+$drupal_hash_salt = '3e8BODFbIUikvQEEAZl1gY60EdXlIoTJukBSom24XiE';
 
 /**
  * Base URL (optional).

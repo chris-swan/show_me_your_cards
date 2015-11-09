@@ -1,0 +1,5 @@
+name = Magic Ajax Node Loader
+description = Display Nodes with Ajax.
+package = Magic Display page
+core = 7.x
+files[] = magicmodule.module
